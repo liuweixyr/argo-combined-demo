@@ -10,7 +10,7 @@ metadata:
 spec:
   project: production
   source:
-    repoURL: https://github.com/liuwei/argo-combined-demo.git
+    repoURL: https://github.com/liuweixyr/argo-combined-demo.git
     targetRevision: HEAD
     path: production
   destination:
